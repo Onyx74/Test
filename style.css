@@ -1,0 +1,45 @@
+
+/* General Styles*/
+html
+{
+    height: 100%;
+}
+body
+{
+    background-position: 50% 50%;
+    font-family: AGOpus,serif;
+    color: #000;
+    background-image: url('../img/podlogka.png');
+    background-repeat:no-repeat;
+    background-size:100%;
+    -moz-background-size:100%;
+    overflow-x: hidden;
+    z-index: 1;
+}
+p
+{
+    font-size: 18px;
+    color: #000;
+	text-align:center;
+}
+a
+{
+    text-decoration: none;
+    outline: none;
+    color: #000;
+    font-size: 34px;
+	text-align:center;
+
+	
+}
+
+A:hover { 
+    text-decoration: underline;
+    color: #104c93;
+   } 
+
+
+.hr {
+    margin: 0;
+    text-align:center;
+   }
