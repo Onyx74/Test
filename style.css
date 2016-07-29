@@ -1,5 +1,6 @@
 
 /* General Styles*/
+/* Test commit */
 html
 {
     height: 100%;
@@ -30,13 +31,13 @@ a
     font-size: 34px;
 	text-align:center;
 
-	
+
 }
 
-A:hover { 
+A:hover {
     text-decoration: underline;
     color: #104c93;
-   } 
+   }
 
 
 .hr {
